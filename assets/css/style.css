@@ -708,6 +708,15 @@ section {
   text-decoration: none; /* Remove underline on the link */
 }
 
+.btn-about {
+background-color: #6a6a6a; /* Replace with your desired background color */
+color: white; /* Text color (typically contrasting with the background color) */
+padding: 10px 15px; /* Adjust padding as needed */
+border-radius: 5px; /* Rounded corners for the button */
+text-decoration: none; /* Remove underline on the link */
+margin-left: 25px;
+
+}
 
 
 .btn:hover {
